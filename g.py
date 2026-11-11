@@ -3,3 +3,5 @@ def add(a,b):
 print(add(34,5))
 a="darshan"
 print(a)
+a1="kannada"
+print(a1)
