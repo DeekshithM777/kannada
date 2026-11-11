@@ -7,3 +7,5 @@ a1="kannada"
 print(a1)
 g="hindin"
 print(g)
+print("git hub is verified")
+print("thank you")
